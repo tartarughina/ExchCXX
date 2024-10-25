@@ -1,4 +1,4 @@
-cmake_minimum_required( VERSION 3.21 FATAL_ERROR) # Require CMake 3.21+
+cmake_minimum_required( VERSION 3.20 FATAL_ERROR) # Require CMake 3.21+
 
 get_filename_component(ExchCXX_CMAKE_DIR "${CMAKE_CURRENT_LIST_FILE}" PATH)
 
