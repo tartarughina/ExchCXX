@@ -1,4 +1,4 @@
-cmake_minimum_required( VERSION 3.21 FATAL_ERROR ) # Require CMake 3.21+
+cmake_minimum_required( VERSION 3.20 FATAL_ERROR ) # Require CMake 3.21+
 include(FetchContent)
 
 # Set up project definition + version information
